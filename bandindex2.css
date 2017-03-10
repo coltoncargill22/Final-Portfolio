@@ -291,7 +291,7 @@ input[type=checkbox].w3-check:disabled+.w3-validate,input[type=radio].w3-radio:d
 .w3-pink,.w3-hover-pink:hover{color:#fff!important;background-color:#e91e63!important}
 .w3-purple,.w3-hover-purple:hover{color:#fff!important;background-color:#9c27b0!important}
 .w3-deep-purple,.w3-hover-deep-purple:hover{color:#fff!important;background-color:#673ab7!important}
-.w3-teal,.w3-hover-red:hover{color:#fff!important;background-color:teal!important}
+.w3-red,.w3-hover-red:hover{color:#fff!important;background-color:#f44336!important}
 .w3-sand,.w3-hover-sand:hover{color:#000!important;background-color:#fdf5e6!important}
 .w3-teal,.w3-hover-teal:hover{color:#fff!important;background-color:#009688!important}
 .w3-yellow,.w3-hover-yellow:hover{color:#000!important;background-color:#ffeb3b!important}
@@ -321,7 +321,7 @@ input[type=checkbox].w3-check:disabled+.w3-validate,input[type=radio].w3-radio:d
 .w3-text-pink,.w3-hover-text-pink:hover{color:#e91e63!important}
 .w3-text-purple,.w3-hover-text-purple:hover{color:#9c27b0!important}
 .w3-text-deep-purple,.w3-hover-text-deep-purple:hover{color:#673ab7!important}
-.w3-text-teal,.w3-hover-text-red:hover{color:#teal!important}
+.w3-text-red,.w3-hover-text-red:hover{color:#f44336!important}
 .w3-text-sand,.w3-hover-text-sand:hover{color:#fdf5e6!important}
 .w3-text-teal,.w3-hover-text-teal:hover{color:#009688!important}
 .w3-text-yellow,.w3-hover-text-yellow:hover{color:#d2be0e!important}
@@ -358,16 +358,3 @@ input[type=checkbox].w3-check:disabled+.w3-validate,input[type=radio].w3-radio:d
 .w3-border-dark-grey,.w3-hover-border-dark-grey:hover,.w3-border-dark-gray,.w3-hover-border-dark-gray:hover{border-color:#616161!important}
 .w3-border-pale-red,.w3-hover-border-pale-red:hover{border-color:#ffe7e7!important}.w3-border-pale-green,.w3-hover-border-pale-green:hover{border-color:#e7ffe7!important}
 .w3-border-pale-yellow,.w3-hover-border-pale-yellow:hover{border-color:#ffffcc!important}.w3-border-pale-blue,.w3-hover-border-pale-blue:hover{border-color:#e7ffff!important}
-.circle {
-  border-color: teal;
-  border-width: 10px;
-  border-style: solid;
-  border-radius: 50%;
-  display: block;
-      margin: 0 auto;
-}
-
-.small {
-  width: 50%;
-
-}
