@@ -1,0 +1,49 @@
+table, th, td {
+    border: 1px solid black;
+
+}
+table{
+    width: 50%;
+
+background-color: teal;
+vertical-align: middle;
+}
+table, th {
+  font-size: 150%;
+  color: White;
+font-family: "Arial";
+
+
+}
+body {
+    background-image: url("images/iceback.jpg");
+}
+.blueBackground{
+  background-color: blue;
+}
+
+.Vanilla{
+   background-image: url("images/vanilla1.jpg");
+   height: 100px;
+width: 500px;
+}
+.chocolate{
+    background-image: url("images/choc.jpg");
+    height: 100px;
+ width: 500px;
+}
+.mint{
+    background-image: url("images/mint.jpg");
+    height: 100px;
+ width: 500px;
+}
+.butter{
+  background-image: url("images/butter.jpg");
+  height: 100px;
+width: 500px;
+}
+.mm{
+  background-image: url("images/mm.jpg");
+  height: 100px;
+width: 500px;
+}
