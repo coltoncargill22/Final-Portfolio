@@ -427,3 +427,9 @@ padding-top:16px!important;padding-bottom:16px!important
   </a>
   <div class="desc">Add a description of the image here</div>
 </div>
+html {
+  height: 100%;
+}
+body {
+  min-height: 100%;
+}
